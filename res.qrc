@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>github-logo.png</file>
+        <file>tic-tac-toe.png</file>
+    </qresource>
+</RCC>
